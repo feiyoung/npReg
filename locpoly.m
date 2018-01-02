@@ -1,6 +1,6 @@
-
+% %
 function varargout = locpoly(y, x, x_0,degree, derivative, width, kernel)
-% Local polinomial regression
+% Local polynomial regression
 % Author: Liu Wei(117020208005@2017.swufe.edu.cn)
 % Version: 2017-12-03
 % univariate local polynomial regression, fit regression function and
